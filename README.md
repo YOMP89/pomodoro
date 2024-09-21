@@ -1,6 +1,6 @@
-# Pomodoro Masculino
+# Pomodoro
 
-Esta es una aplicación web de temporizador Pomodoro con un diseño elegante y masculino.
+Esta es una aplicación web de temporizador Pomodoro.
 
 ## Características
 
